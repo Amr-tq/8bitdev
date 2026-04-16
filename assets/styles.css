@@ -174,7 +174,7 @@ h6 {
 }
 
 .category-item {
-  font-family: 'Inter', sans-serif;
+  font-family: "Inter", sans-serif;
   color: var(--retro-grey);
   text-decoration: none;
   display: flex;
@@ -201,7 +201,7 @@ h6 {
 }
 
 .tag {
-  font-family: 'Inter', sans-serif;
+  font-family: "Inter", sans-serif;
   background: var(--retro-white);
   color: var(--retro-grey);
   padding: 0.3rem 0.8rem;
@@ -217,7 +217,6 @@ h6 {
   color: var(--retro-white);
   border-color: var(--retro-red);
 }
-
 
 /* About Page Specific Styles */
 .about-topics {
@@ -246,7 +245,7 @@ h6 {
 }
 
 .topic-item p {
-  font-family: 'Inter', sans-serif;
+  font-family: "Inter", sans-serif;
   color: var(--retro-grey);
   line-height: 1.6;
   margin: 0;
@@ -284,7 +283,7 @@ h6 {
 }
 
 .form-group label {
-  font-family: 'Inter', sans-serif;
+  font-family: "Inter", sans-serif;
   color: var(--retro-dark);
   font-weight: 500;
   margin-bottom: 0.5rem;
@@ -294,7 +293,7 @@ h6 {
 .form-group input,
 .form-group select,
 .form-group textarea {
-  font-family: 'Inter', sans-serif;
+  font-family: "Inter", sans-serif;
   padding: 0.8rem;
   border: 2px solid #e0e0e0;
   border-radius: 6px;
@@ -341,7 +340,7 @@ h6 {
   padding: 1rem 2rem;
   border: none;
   border-radius: 6px;
-  font-family: 'Inter', sans-serif;
+  font-family: "Inter", sans-serif;
   font-weight: 600;
   font-size: 1rem;
   cursor: pointer;
@@ -364,7 +363,7 @@ h6 {
   color: var(--retro-red);
   text-decoration: none;
   font-weight: 500;
-  font-family: 'Inter', sans-serif;
+  font-family: "Inter", sans-serif;
   font-size: 0.9rem;
   margin-top: 0.5rem;
   display: inline-block;
@@ -595,7 +594,7 @@ h6 {
 }
 
 .events-subtitle {
-  font-family: 'Inter', sans-serif;
+  font-family: "Inter", sans-serif;
   color: var(--retro-grey);
   font-size: 1.1rem;
   margin-bottom: 3rem;
@@ -643,7 +642,7 @@ h6 {
 }
 
 .event-date .month {
-  font-family: 'Inter', sans-serif;
+  font-family: "Inter", sans-serif;
   font-size: 0.8rem;
   font-weight: 600;
   text-transform: uppercase;
@@ -651,7 +650,7 @@ h6 {
 }
 
 .event-date .day {
-  font-family: 'Jersey 10', cursive;
+  font-family: "Jersey 10", cursive;
   font-size: 1.8rem;
   font-weight: normal;
   line-height: 1;
@@ -668,14 +667,14 @@ h6 {
 }
 
 .event-content p {
-  font-family: 'Inter', sans-serif;
+  font-family: "Inter", sans-serif;
   color: var(--retro-grey);
   line-height: 1.6;
   margin-bottom: 0.5rem;
 }
 
 .event-location {
-  font-family: 'Inter', sans-serif;
+  font-family: "Inter", sans-serif;
   color: var(--retro-red);
   font-size: 0.9rem;
   font-weight: 500;
@@ -911,5 +910,6 @@ h6 {
 
   .footer-bottom {
     padding: 1rem;
+    margin: 1rem;
   }
 }
