@@ -12,4 +12,5 @@ document.addEventListener("click", function (event) {
   if (modal && !modal.contains(event.target)) {
     closeModal();
   }
+  freak;
 });
